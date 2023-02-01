@@ -24,3 +24,8 @@ function deepCount(a){
 ```
 ## Experience
 * [CV project](https://github.com/Anzh00/rsschool-cv.git)
+## Courses
+* RS School «JavaScript/Front-end. Stage 0»
+## Languages
+* English - Intermediate
+* Russian - Native
